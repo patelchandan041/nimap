@@ -1,0 +1,71 @@
+.page3{
+    margin: 0px 100px;
+    margin-bottom: 50px;
+}
+.page3_top{
+    display: flex;
+    flex-direction: row;
+}
+.page3_left{
+    max-width: 550px;
+}
+.page3_header{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.page3_leftbtn{
+    margin-top: 20px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+    font-size: 11px;
+    background-color: #33BBFF;
+    border: none;
+}
+.page3_right{
+    justify-content: space-evenly;
+    margin-left: 140px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 3500px;
+}
+
+.page3_box{
+    margin-top: 20px;
+    padding: 8px;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    border-bottom-right-radius: 40px;
+}
+.page3_boxblue{
+    margin-top: 20px;
+    padding: 8px;
+    border: 1px solid #33BBFF;
+    border-radius: 5px;
+    border-bottom-right-radius: 40px;
+}
+.page3_boxyellow{
+    margin-top: 20px;
+    padding: 8px;
+    border: 0.1px solid yellow;
+    border-radius: 5px;
+    border-bottom-right-radius: 40px;
+}
+.page3_boxtag{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.page3_bottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.page3_bottomclients{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.page3_bottomimage{
+    width: 100px;
+}

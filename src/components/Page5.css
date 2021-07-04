@@ -1,0 +1,12 @@
+.page5{
+    margin: 0px 100px;
+}
+.page5_heading{
+    font-size: 1.5rem;
+   font-weight: bolder;
+}
+.page5_container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}

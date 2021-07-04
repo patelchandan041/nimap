@@ -1,0 +1,42 @@
+.page9{
+    margin: 50px 100px;
+}
+.page9_top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.page9topheading{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.page9right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.page9_inputs{
+    margin-top: 10px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+
+}
+.page9_btn{
+    margin-top: 10px;
+    color: white;
+    background-color: #33BBFF;
+    padding: 10px 0px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+}
+.page9_bottom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.page9_bottomhead{
+    font-size: 1.6rem;
+    font-weight: bolder;
+}

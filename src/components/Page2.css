@@ -1,0 +1,28 @@
+.page2{
+     display: flex;
+     flex-direction: row;
+     margin-top: 50px;
+     margin-bottom: 50px;
+}
+.page2_left{
+     margin-left: 110px;
+}
+.page2_heading{
+     font-size: 2.2rem;
+      font-weight: bolder;
+}
+.page2_btn{
+     padding: 10px;
+     color: white;
+     font-size: 12px;
+     border-radius: 30px;
+     border: none;
+     background-color: #33BBFF;
+}
+.page2_img{
+     margin-top: 20px;
+     width: 500px;
+     height: 400px;
+     margin-right: 90px;
+     margin-left: 50px;
+}

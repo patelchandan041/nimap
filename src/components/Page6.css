@@ -1,0 +1,12 @@
+.page6{
+    margin: 50px 100px;
+}
+.page6_heading{
+    font-size: 1.5rem;
+   font-weight: bolder;
+   margin: 0px 340px;
+}
+.page6_container{
+    display: flex;
+    flex-wrap: wrap;
+}

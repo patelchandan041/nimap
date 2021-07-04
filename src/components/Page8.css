@@ -1,0 +1,48 @@
+.page8{
+     background-color: #33BBFF;
+    border-bottom-right-radius: 120px;
+    padding: 40px 0px;
+}
+.page8_cont{
+    margin: 50px 100px;
+}
+.page8topheading{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: white;
+}
+.page8top{
+    display: flex;
+    flex-direction: row;
+    
+}
+.page8img{
+    width: 350px;
+}
+
+.page8_right{
+    margin-left: 80px;
+}
+.page8_right > p{
+    color: white;
+}
+.page8_rightheading{
+    font-size: 1.5rem;
+    color: white;
+}
+.page8_btn{
+    font-size: 10px;
+    font-weight: bolder;
+    color: #33BBFF;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+}
+.page8_row{
+    margin: 45px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.page8_rowimg{
+    width: 200px;
+}

@@ -1,0 +1,36 @@
+.page7top{
+    background-image: url("./13.png");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: none;
+    color: white;
+}
+.page7top_heading{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: white;
+}
+
+.page7_btn{
+    border: none;
+    width: 180px;
+    color: #33BBFF;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.page7bottom{
+    margin: 50px 100px;
+}
+.page7bottomheading{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.page7_row{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
