@@ -7,9 +7,19 @@
     font-weight: bolder;
 }
 .page4_navbar{
+   
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
+}
+.page4_navbar > p{
+    padding: 5px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.page4_navbar > p:hover{
+    background-color: #33BBFF;
 }
 .page4_container{
     display: flex;
